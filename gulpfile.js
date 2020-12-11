@@ -44,7 +44,7 @@ var paths = {
         dest: 'languages/the-trinity-guide-theme.pot'
     },
     site: {
-        url: 'http://bootstrap.test'
+        url: 'http://trinityguide.local'
     }
 }
 
