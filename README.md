@@ -1,16 +1,14 @@
-# Bootstrap for Genesis
+# Trinity Guide Theme
 
 ## Introduction
 
-Bootstrap for Genesis is a genesis child theme which integrates [Bootstrap](http://getbootstrap.com/). It uses Gulp to handle tasks, configuration and lint files.
-
-The default branch is under development, use [v4](https://github.com/webdevsuperfast/bootstrap-for-genesis/tree/v4) branch to get the last stable release.
+Trinity Guide Theme is a genesis child theme which integrates [Bootstrap](http://getbootstrap.com/). It uses Gulp to handle tasks, configuration and lint files.
 
 ## Installation Instructions
 
-1. Upload the Bootstrap for Genesis theme folder via FTP to your wp-content/themes/ directory. (The Genesis parent theme needs to be in the wp-content/themes/ directory as well.)
+1. Upload the Trinity Guide Theme folder via FTP to your wp-content/themes/ directory. (The Genesis parent theme needs to be in the wp-content/themes/ directory as well.)
 2. Go to your WordPress dashboard and select Appearance.
-3. Activate the Bootstrap for Genesis theme.
+3. Activate the Trinity Guide Theme.
 4. Inside your WordPress dashboard, go to Genesis > Theme Settings and configure them to your liking.
 
 ## Building from Source
@@ -54,15 +52,3 @@ The default branch is under development, use [v4](https://github.com/webdevsuper
 ## Notes
 
 Use [SmartMenus for Bootstrap](https://github.com/webdevsuperfast/ra-smartmenus-bootstrap) for multi-level dropdown support or checkout the [v4](https://github.com/webdevsuperfast/bootstrap-for-genesis/tree/v4) branch.
-
-## Credits
-
-Without these projects, this theme wouldn't be where it is today.
-
-* [Genesis Framework](http://my.studiopress.com/themes/genesis/)
-* [Bootstrap](http://getbootstrap.com)
-* [Sass](http://sass-lang.com/)
-* [Gulp](http://gulpjs.com/)
-* [WP Bootstrap Navwalker](https://github.com/twittem/wp-bootstrap-navwalker)
-* [Bootstrap Genesis](https://github.com/salcode/bootstrap-genesis)
-* [Bones for Genesis 2.0 with Bootstrap integration](https://github.com/jer0dh/bones-for-genesis-2-0-bootstrap)
